@@ -1,0 +1,35 @@
+.setting-title{
+  margin-top: .8rem;
+  margin-bottom: .2rem;
+  font-size: .34rem;
+  text-align: left;
+}
+.set-voice{
+  display: flex;
+}
+.voice-title{
+  width: 1.5rem;
+  font-size: .24rem;
+  padding-top: .15rem;
+}
+.voice-ctrl,.url-setting{
+  flex: 1;
+  font-size: .24rem;
+  text-align: left;
+}
+.url-setting{
+  overflow: hidden;
+
+}
+.url-setting-box{
+  display: flex;
+  font-size: .24rem;
+}
+.url-setting-btn{
+  color: #0077cc;
+  padding: 0 .2rem;
+}
+.fix-btn{
+  width: 80%;
+  margin: .3rem  auto;
+}
